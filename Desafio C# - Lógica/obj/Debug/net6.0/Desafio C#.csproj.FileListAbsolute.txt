@@ -1,0 +1,15 @@
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\bin\Debug\net6.0\Desafio C#.exe
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\bin\Debug\net6.0\Desafio C#.deps.json
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\bin\Debug\net6.0\Desafio C#.runtimeconfig.json
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\bin\Debug\net6.0\Desafio C#.dll
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\bin\Debug\net6.0\Desafio C#.pdb
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.csproj.AssemblyReference.cache
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.AssemblyInfoInputs.cache
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.AssemblyInfo.cs
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.csproj.CoreCompileInputs.cache
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.dll
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\refint\Desafio C#.dll
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.pdb
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\Desafio C#.genruntimeconfig.cache
+C:\Users\kethelyn.andrade\Downloads\TI-Academy\C#\Desafio C#\obj\Debug\net6.0\ref\Desafio C#.dll
